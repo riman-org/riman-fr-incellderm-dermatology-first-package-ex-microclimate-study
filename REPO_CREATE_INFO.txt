@@ -1,0 +1,6 @@
+Owner: riman-org
+Repository name: riman-fr-incellderm-dermatology-first-package-ex-microclimate-study
+Description (347/350 chars): RIMAN Skincare & INCELLDERM Dermatology First Package EX (Booster & Serum Set) (France): Clinical & Microclimate Evaluation of INCELLDERM Dermatology First Package EX in the French Market... 6-language paper, n=200 dataset & INCI index: https://www.riman.win/www/en/reports/detail/fr-incellderm-dermatology-first-package-ex-microclimate-study.html
+Website (About URL): https://www.riman.win/www/en/reports/detail/fr-incellderm-dermatology-first-package-ex-microclimate-study.html
+GitHub Repo URL: https://github.com/riman-org/riman-fr-incellderm-dermatology-first-package-ex-microclimate-study
+GitHub Pages URL: https://riman-org.github.io/riman-fr-incellderm-dermatology-first-package-ex-microclimate-study/
